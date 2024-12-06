@@ -56,7 +56,21 @@
 
 ---
 
+### **7. Analyse de texte** (*Text Analytics*)  
+   - **Objectif** : Extraire des informations exploitables à partir de données textuelles.  
+   - **Exemples** :  
+     - Analyse de sentiments, classification de texte.  
+   - **Utilisation** : Compréhension des retours clients ou des tendances sur les réseaux sociaux.  
 
+---
+
+### **8. Simulation et optimisation** (*Simulation and Optimization*)  
+   - **Objectif** : Modéliser des scénarios ou optimiser des processus pour une meilleure prise de décision.  
+   - **Exemples** :  
+     - Monte Carlo, optimisation linéaire.  
+   - **Utilisation** : Gestion des ressources et planification stratégique.  
+
+--- 
 
 
 
