@@ -1,0 +1,201 @@
+Nom,Âge,Ville,Salaire ($),Sexe,Statut marital,Niveau d'éducation,Heures travaillées par semaine,Propriétaire de logement,Score de satisfaction au travail,Secteur d'activité,Nombre d'enfants
+Personne_1,56,Non spécifié,34592$,Femme,Célibataire,Bachelier,39,Non,1,Technologie,2
+Personne_2,46,Lyon,23278$,Femme,Divorcé(e),Master,43,Non,1,Technologie,0
+Personne_3,32,Marseille,56048$,Femme,Veuf/Veuve,Secondaire,24,Non,6,Industrie,2
+Personne_4,60,Paris,52098$,Homme,Marié(e),Secondaire,53,Oui,10,Éducation,2
+Personne_5,25,Nice,49256$,Homme,Célibataire,Bachelier,25,Non,2,Santé,3
+Personne_6,38,Paris,38289$,Homme,Marié(e),Master,21,Non,5,Technologie,4
+Personne_7,56,Paris,33434$,Femme,Célibataire,Master,32,Non,1,Éducation,0
+Personne_8,36,Marseille,91482$,Femme,Divorcé(e),Secondaire,30,Oui,7,Éducation,2
+Personne_9,40,Paris,31395$,Femme,Célibataire,Secondaire,42,Oui,1,Santé,0
+Personne_10,28,Lyon,97397$,Femme,Veuf/Veuve,Bachelier,35,Non,4,Industrie,1
+Personne_11,28,Lyon,75302$,Homme,Veuf/Veuve,Bachelier,50,Oui,9,Finance,3
+Personne_12,41,Toulouse,24165$,Homme,Célibataire,Master,30,Oui,1,Finance,1
+Personne_13,53,Non spécifié,23905$,Femme,Célibataire,Doctorat,35,Oui,4,Éducation,0
+Personne_14,57,Nice,32280$,Homme,Célibataire,Master,27,Oui,6,Agriculture,0
+Personne_15,41,Paris,48657$,Homme,Célibataire,Secondaire,23,Oui,6,Agriculture,4
+Personne_16,20,Paris,50495$,Femme,Veuf/Veuve,Master,59,Oui,8,Santé,2
+Personne_17,39,Marseille,86237$,Homme,Marié(e),Doctorat,23,Oui,1,Finance,2
+Personne_18,19,Non spécifié,98907$,Femme,Célibataire,Bachelier,44,Oui,7,Éducation,1
+Personne_19,41,Lyon,23478$,Homme,Célibataire,Doctorat,22,Oui,1,Industrie,3
+Personne_20,61,Nice,93563$,Femme,Veuf/Veuve,Doctorat,51,Oui,7,Finance,5
+Personne_21,47,Toulouse,46062$,Femme,Veuf/Veuve,Doctorat,22,Non,3,Éducation,2
+Personne_22,55,Lyon,91426$,Femme,Divorcé(e),Bachelier,46,Non,8,Éducation,4
+Personne_23,19,Non spécifié,74987$,Femme,Célibataire,Doctorat,48,Oui,3,Technologie,1
+Personne_24,38,Toulouse,48893$,Homme,Divorcé(e),Doctorat,51,Non,1,Industrie,1
+Personne_25,50,Marseille,78878$,Femme,Veuf/Veuve,Doctorat,38,Non,8,Technologie,5
+Personne_26,29,Marseille,97236$,Femme,Veuf/Veuve,Secondaire,40,Oui,3,Santé,4
+Personne_27,39,Paris,56463$,Femme,Marié(e),Doctorat,24,Oui,2,Technologie,3
+Personne_28,61,Non spécifié,20851$,Homme,Célibataire,Bachelier,37,Oui,1,Technologie,4
+Personne_29,42,Nice,40926$,Femme,Divorcé(e),Doctorat,47,Non,3,Finance,3
+Personne_30,44,Toulouse,75392$,Homme,Veuf/Veuve,Doctorat,41,Non,2,Agriculture,4
+Personne_31,59,Lyon,64597$,Femme,Veuf/Veuve,Bachelier,40,Oui,2,Éducation,4
+Personne_32,45,Non spécifié,56421$,Homme,Divorcé(e),Doctorat,25,Oui,6,Industrie,0
+Personne_33,33,Non spécifié,40379$,Homme,Marié(e),Bachelier,20,Oui,1,Technologie,1
+Personne_34,32,Marseille,48221$,Femme,Veuf/Veuve,Doctorat,24,Non,2,Industrie,4
+Personne_35,64,Paris,64118$,Homme,Célibataire,Bachelier,31,Non,6,Agriculture,5
+Personne_36,61,Paris,33396$,Femme,Veuf/Veuve,Doctorat,45,Non,3,Agriculture,4
+Personne_37,20,Toulouse,32156$,Femme,Célibataire,Doctorat,53,Non,4,Technologie,2
+Personne_38,54,Marseille,69797$,Femme,Divorcé(e),Secondaire,33,Oui,1,Santé,1
+Personne_39,24,Non spécifié,32676$,Homme,Célibataire,Secondaire,45,Oui,8,Technologie,2
+Personne_40,38,Nice,67052$,Homme,Divorcé(e),Doctorat,46,Oui,7,Finance,1
+Personne_41,26,Marseille,65082$,Femme,Célibataire,Doctorat,28,Oui,7,Éducation,2
+Personne_42,56,Toulouse,99131$,Femme,Divorcé(e),Master,45,Non,3,Santé,4
+Personne_43,35,Toulouse,54671$,Homme,Célibataire,Bachelier,41,Non,10,Technologie,4
+Personne_44,21,Marseille,25695$,Femme,Marié(e),Master,49,Oui,10,Industrie,0
+Personne_45,42,Toulouse,80217$,Femme,Célibataire,Secondaire,36,Oui,3,Santé,5
+Personne_46,31,Marseille,90284$,Femme,Célibataire,Secondaire,45,Non,2,Santé,2
+Personne_47,26,Lyon,36361$,Homme,Marié(e),Secondaire,55,Oui,1,Technologie,3
+Personne_48,43,Marseille,69615$,Homme,Veuf/Veuve,Secondaire,20,Non,7,Santé,0
+Personne_49,19,Marseille,30328$,Homme,Veuf/Veuve,Doctorat,27,Oui,7,Industrie,2
+Personne_50,37,Toulouse,92357$,Femme,Célibataire,Secondaire,54,Oui,2,Agriculture,2
+Personne_51,45,Toulouse,58427$,Femme,Marié(e),Doctorat,34,Oui,7,Santé,0
+Personne_52,64,Paris,67400$,Femme,Célibataire,Doctorat,41,Oui,8,Agriculture,4
+Personne_53,24,Paris,95674$,Homme,Divorcé(e),Secondaire,33,Oui,1,Industrie,2
+Personne_54,61,Lyon,45203$,Femme,Divorcé(e),Secondaire,45,Oui,9,Technologie,4
+Personne_55,25,Paris,29116$,Femme,Célibataire,Bachelier,47,Oui,7,Éducation,0
+Personne_56,64,Marseille,26006$,Femme,Veuf/Veuve,Master,42,Non,3,Santé,4
+Personne_57,52,Toulouse,49871$,Femme,Veuf/Veuve,Secondaire,33,Non,8,Éducation,1
+Personne_58,31,Paris,57930$,Homme,Célibataire,Bachelier,43,Non,7,Industrie,3
+Personne_59,34,Paris,30458$,Homme,Célibataire,Bachelier,21,Non,8,Santé,2
+Personne_60,53,Lyon,50512$,Femme,Divorcé(e),Master,45,Non,6,Agriculture,5
+Personne_61,57,Non spécifié,33238$,Homme,Veuf/Veuve,Doctorat,33,Oui,9,Finance,3
+Personne_62,21,Lyon,69823$,Homme,Célibataire,Secondaire,26,Oui,5,Éducation,4
+Personne_63,19,Marseille,56434$,Femme,Divorcé(e),Master,22,Non,3,Santé,2
+Personne_64,23,Toulouse,79429$,Femme,Veuf/Veuve,Secondaire,42,Oui,3,Éducation,4
+Personne_65,59,Lyon,67819$,Homme,Marié(e),Bachelier,37,Non,1,Santé,1
+Personne_66,21,Paris,41319$,Femme,Divorcé(e),Bachelier,57,Non,8,Technologie,0
+Personne_67,46,Toulouse,68520$,Homme,Veuf/Veuve,Doctorat,54,Oui,2,Agriculture,2
+Personne_68,35,Toulouse,66566$,Femme,Veuf/Veuve,Bachelier,34,Oui,3,Éducation,1
+Personne_69,43,Paris,47460$,Homme,Divorcé(e),Bachelier,44,Oui,8,Finance,1
+Personne_70,61,Lyon,54993$,Femme,Marié(e),Master,56,Non,8,Finance,2
+Personne_71,51,Paris,29358$,Homme,Divorcé(e),Secondaire,47,Oui,4,Industrie,4
+Personne_72,27,Non spécifié,99840$,Homme,Veuf/Veuve,Secondaire,29,Non,4,Santé,5
+Personne_73,53,Toulouse,42431$,Homme,Célibataire,Master,58,Non,5,Éducation,1
+Personne_74,31,Nice,90010$,Femme,Célibataire,Doctorat,36,Non,6,Industrie,3
+Personne_75,48,Nice,52087$,Homme,Divorcé(e),Secondaire,58,Oui,5,Éducation,1
+Personne_76,32,Marseille,41417$,Homme,Veuf/Veuve,Bachelier,41,Oui,7,Santé,5
+Personne_77,25,Paris,80589$,Femme,Célibataire,Secondaire,45,Non,2,Finance,4
+Personne_78,31,Paris,69735$,Femme,Veuf/Veuve,Bachelier,44,Oui,7,Technologie,4
+Personne_79,40,Marseille,55382$,Homme,Divorcé(e),Doctorat,36,Oui,10,Finance,3
+Personne_80,57,Marseille,93000$,Homme,Célibataire,Master,32,Oui,7,Industrie,1
+Personne_81,38,Marseille,48785$,Femme,Veuf/Veuve,Secondaire,39,Non,1,Agriculture,4
+Personne_82,33,Toulouse,62504$,Femme,Célibataire,Master,44,Non,7,Technologie,5
+Personne_83,62,Non spécifié,27331$,Femme,Divorcé(e),Secondaire,23,Oui,5,Industrie,2
+Personne_84,35,Paris,50021$,Femme,Veuf/Veuve,Bachelier,29,Non,3,Santé,0
+Personne_85,64,Toulouse,24207$,Femme,Célibataire,Master,22,Oui,3,Technologie,0
+Personne_86,41,Marseille,61347$,Homme,Divorcé(e),Secondaire,37,Oui,4,Industrie,0
+Personne_87,43,Paris,72581$,Femme,Célibataire,Bachelier,55,Oui,2,Santé,1
+Personne_88,42,Toulouse,55093$,Homme,Célibataire,Master,41,Oui,2,Finance,3
+Personne_89,62,Non spécifié,28675$,Homme,Marié(e),Master,53,Non,1,Agriculture,4
+Personne_90,58,Toulouse,47653$,Homme,Marié(e),Secondaire,27,Non,5,Santé,2
+Personne_91,46,Non spécifié,94341$,Femme,Divorcé(e),Secondaire,59,Non,4,Éducation,5
+Personne_92,32,Marseille,61245$,Homme,Marié(e),Secondaire,38,Oui,10,Santé,2
+Personne_93,62,Non spécifié,47869$,Homme,Divorcé(e),Bachelier,56,Oui,2,Santé,5
+Personne_94,18,Paris,85435$,Femme,Marié(e),Secondaire,25,Oui,3,Agriculture,1
+Personne_95,42,Marseille,71856$,Homme,Célibataire,Master,45,Non,7,Éducation,0
+Personne_96,24,Paris,80142$,Homme,Divorcé(e),Master,53,Oui,7,Industrie,1
+Personne_97,26,Nice,38726$,Femme,Divorcé(e),Secondaire,25,Non,4,Industrie,3
+Personne_98,41,Lyon,54718$,Homme,Célibataire,Secondaire,56,Non,5,Santé,3
+Personne_99,18,Non spécifié,38301$,Homme,Divorcé(e),Doctorat,52,Non,5,Éducation,5
+Personne_100,61,Lyon,52325$,Homme,Divorcé(e),Master,41,Non,6,Éducation,4
+Personne_101,25,Lyon,93579$,Femme,Marié(e),Bachelier,40,Non,9,Agriculture,4
+Personne_102,41,Non spécifié,90644$,Femme,Divorcé(e),Doctorat,25,Non,2,Finance,5
+Personne_103,28,Marseille,54438$,Femme,Veuf/Veuve,Secondaire,25,Oui,5,Industrie,3
+Personne_104,34,Nice,96622$,Homme,Célibataire,Secondaire,23,Oui,3,Agriculture,3
+Personne_105,25,Paris,76155$,Homme,Marié(e),Master,49,Non,4,Technologie,3
+Personne_106,52,Toulouse,96484$,Femme,Marié(e),Secondaire,30,Non,10,Industrie,1
+Personne_107,52,Paris,72350$,Homme,Veuf/Veuve,Bachelier,49,Oui,6,Agriculture,3
+Personne_108,50,Toulouse,67447$,Homme,Célibataire,Master,50,Non,8,Industrie,2
+Personne_109,22,Paris,48746$,Femme,Célibataire,Secondaire,43,Non,1,Finance,0
+Personne_110,59,Non spécifié,38131$,Femme,Marié(e),Master,28,Oui,10,Technologie,3
+Personne_111,56,Nice,86784$,Homme,Divorcé(e),Secondaire,22,Non,8,Finance,5
+Personne_112,58,Toulouse,84686$,Homme,Marié(e),Secondaire,50,Non,7,Technologie,0
+Personne_113,45,Marseille,31915$,Homme,Célibataire,Secondaire,59,Non,1,Santé,1
+Personne_114,24,Paris,26175$,Femme,Veuf/Veuve,Bachelier,56,Oui,2,Agriculture,5
+Personne_115,26,Paris,34371$,Femme,Marié(e),Bachelier,55,Oui,3,Technologie,0
+Personne_116,25,Toulouse,40033$,Femme,Célibataire,Master,43,Oui,1,Finance,5
+Personne_117,29,Marseille,40969$,Femme,Marié(e),Secondaire,50,Non,9,Industrie,1
+Personne_118,51,Marseille,75333$,Homme,Divorcé(e),Secondaire,25,Non,8,Technologie,2
+Personne_119,50,Non spécifié,98172$,Femme,Marié(e),Bachelier,21,Oui,2,Agriculture,1
+Personne_120,40,Non spécifié,28326$,Femme,Marié(e),Secondaire,39,Non,9,Technologie,1
+Personne_121,41,Non spécifié,70432$,Femme,Célibataire,Bachelier,47,Non,7,Éducation,5
+Personne_122,54,Non spécifié,70019$,Femme,Célibataire,Secondaire,30,Non,9,Industrie,4
+Personne_123,52,Non spécifié,98104$,Femme,Célibataire,Master,23,Non,6,Agriculture,3
+Personne_124,61,Non spécifié,81348$,Homme,Marié(e),Secondaire,34,Non,6,Agriculture,3
+Personne_125,57,Nice,89352$,Homme,Divorcé(e),Secondaire,25,Oui,4,Santé,2
+Personne_126,39,Marseille,52953$,Femme,Veuf/Veuve,Doctorat,49,Non,10,Finance,2
+Personne_127,44,Non spécifié,92512$,Homme,Veuf/Veuve,Bachelier,57,Oui,10,Santé,3
+Personne_128,52,Marseille,21504$,Femme,Célibataire,Secondaire,21,Non,2,Agriculture,4
+Personne_129,18,Marseille,35014$,Femme,Célibataire,Secondaire,34,Oui,7,Industrie,3
+Personne_130,52,Lyon,90381$,Homme,Marié(e),Doctorat,30,Non,5,Technologie,4
+Personne_131,54,Nice,54973$,Homme,Veuf/Veuve,Doctorat,27,Oui,6,Technologie,2
+Personne_132,64,Non spécifié,64587$,Femme,Célibataire,Bachelier,45,Non,2,Industrie,0
+Personne_133,31,Paris,34621$,Femme,Divorcé(e),Doctorat,24,Oui,5,Agriculture,5
+Personne_134,20,Toulouse,58469$,Femme,Divorcé(e),Master,25,Non,10,Technologie,2
+Personne_135,18,Paris,76985$,Homme,Célibataire,Doctorat,45,Oui,4,Technologie,2
+Personne_136,22,Nice,40730$,Femme,Célibataire,Master,23,Non,9,Technologie,1
+Personne_137,43,Toulouse,79470$,Femme,Veuf/Veuve,Bachelier,38,Oui,6,Finance,1
+Personne_138,31,Nice,20425$,Femme,Veuf/Veuve,Bachelier,39,Oui,2,Finance,1
+Personne_139,56,Marseille,54522$,Homme,Marié(e),Bachelier,52,Non,1,Éducation,5
+Personne_140,44,Toulouse,85612$,Femme,Veuf/Veuve,Bachelier,39,Non,5,Santé,1
+Personne_141,26,Marseille,43416$,Femme,Divorcé(e),Bachelier,31,Oui,9,Industrie,4
+Personne_142,32,Paris,86542$,Homme,Divorcé(e),Master,20,Non,6,Industrie,3
+Personne_143,32,Paris,33947$,Femme,Célibataire,Master,45,Oui,10,Industrie,0
+Personne_144,43,Toulouse,59117$,Femme,Veuf/Veuve,Bachelier,33,Oui,7,Éducation,2
+Personne_145,59,Toulouse,86540$,Homme,Marié(e),Doctorat,57,Oui,5,Finance,4
+Personne_146,30,Non spécifié,99818$,Femme,Divorcé(e),Secondaire,56,Non,10,Agriculture,0
+Personne_147,49,Nice,46071$,Homme,Divorcé(e),Bachelier,30,Oui,6,Agriculture,4
+Personne_148,56,Non spécifié,40032$,Homme,Marié(e),Doctorat,55,Oui,5,Éducation,4
+Personne_149,49,Nice,69009$,Femme,Marié(e),Secondaire,32,Non,9,Agriculture,2
+Personne_150,21,Non spécifié,41174$,Femme,Divorcé(e),Bachelier,22,Non,6,Industrie,3
+Personne_151,47,Marseille,90697$,Femme,Divorcé(e),Bachelier,52,Non,8,Santé,1
+Personne_152,54,Toulouse,89514$,Femme,Marié(e),Master,25,Non,2,Technologie,5
+Personne_153,40,Paris,20074$,Homme,Divorcé(e),Secondaire,29,Oui,9,Finance,3
+Personne_154,56,Nice,98504$,Femme,Célibataire,Secondaire,24,Oui,5,Finance,5
+Personne_155,62,Nice,62487$,Homme,Célibataire,Doctorat,42,Oui,7,Éducation,2
+Personne_156,32,Paris,84042$,Femme,Marié(e),Master,29,Oui,10,Finance,2
+Personne_157,60,Non spécifié,22552$,Femme,Veuf/Veuve,Master,21,Non,1,Industrie,2
+Personne_158,46,Nice,34662$,Femme,Marié(e),Master,32,Oui,10,Agriculture,0
+Personne_159,53,Marseille,67576$,Homme,Marié(e),Master,59,Oui,5,Industrie,5
+Personne_160,30,Toulouse,60306$,Femme,Veuf/Veuve,Secondaire,21,Non,10,Éducation,3
+Personne_161,49,Paris,51385$,Femme,Veuf/Veuve,Secondaire,39,Oui,2,Industrie,3
+Personne_162,24,Toulouse,27592$,Femme,Veuf/Veuve,Bachelier,20,Oui,6,Agriculture,4
+Personne_163,39,Nice,51571$,Femme,Célibataire,Bachelier,56,Oui,1,Santé,4
+Personne_164,45,Nice,94364$,Homme,Divorcé(e),Master,28,Oui,3,Éducation,4
+Personne_165,19,Paris,30322$,Femme,Célibataire,Master,36,Oui,5,Santé,2
+Personne_166,59,Marseille,31226$,Homme,Divorcé(e),Master,28,Oui,4,Technologie,3
+Personne_167,62,Lyon,83699$,Homme,Célibataire,Bachelier,30,Non,3,Santé,5
+Personne_168,23,Paris,29071$,Homme,Divorcé(e),Doctorat,34,Non,10,Technologie,2
+Personne_169,45,Lyon,89822$,Homme,Célibataire,Doctorat,43,Oui,5,Technologie,0
+Personne_170,45,Non spécifié,36483$,Homme,Veuf/Veuve,Bachelier,57,Oui,8,Santé,4
+Personne_171,61,Lyon,36828$,Homme,Marié(e),Bachelier,54,Non,4,Éducation,2
+Personne_172,61,Marseille,82296$,Femme,Célibataire,Bachelier,49,Oui,1,Agriculture,2
+Personne_173,37,Non spécifié,92063$,Homme,Divorcé(e),Bachelier,50,Oui,7,Industrie,0
+Personne_174,47,Lyon,41643$,Homme,Veuf/Veuve,Bachelier,24,Oui,8,Industrie,1
+Personne_175,28,Non spécifié,54741$,Homme,Célibataire,Bachelier,33,Non,3,Agriculture,3
+Personne_176,45,Lyon,89163$,Femme,Célibataire,Master,30,Oui,6,Technologie,5
+Personne_177,42,Marseille,99507$,Femme,Veuf/Veuve,Master,28,Non,2,Technologie,1
+Personne_178,56,Lyon,75461$,Homme,Célibataire,Master,53,Oui,7,Éducation,4
+Personne_179,50,Lyon,47760$,Femme,Marié(e),Master,31,Non,8,Finance,2
+Personne_180,18,Lyon,90686$,Homme,Célibataire,Bachelier,54,Non,6,Santé,0
+Personne_181,44,Paris,46365$,Homme,Marié(e),Doctorat,54,Oui,6,Technologie,0
+Personne_182,30,Paris,60857$,Femme,Marié(e),Secondaire,20,Non,5,Industrie,3
+Personne_183,58,Paris,72296$,Homme,Veuf/Veuve,Bachelier,59,Oui,8,Éducation,1
+Personne_184,20,Marseille,68944$,Femme,Célibataire,Secondaire,41,Non,1,Santé,3
+Personne_185,56,Non spécifié,77422$,Femme,Veuf/Veuve,Doctorat,48,Oui,10,Éducation,2
+Personne_186,23,Nice,87839$,Homme,Célibataire,Master,27,Oui,4,Santé,3
+Personne_187,25,Lyon,79177$,Homme,Célibataire,Doctorat,30,Non,4,Santé,5
+Personne_188,44,Lyon,35860$,Femme,Divorcé(e),Bachelier,56,Oui,3,Agriculture,0
+Personne_189,26,Marseille,52493$,Homme,Célibataire,Master,33,Oui,3,Technologie,0
+Personne_190,54,Lyon,49451$,Homme,Veuf/Veuve,Bachelier,49,Non,4,Éducation,4
+Personne_191,50,Paris,28392$,Homme,Marié(e),Master,54,Oui,1,Éducation,4
+Personne_192,59,Nice,64313$,Femme,Célibataire,Secondaire,40,Oui,2,Agriculture,2
+Personne_193,61,Toulouse,22757$,Femme,Divorcé(e),Secondaire,56,Non,9,Industrie,5
+Personne_194,41,Lyon,97110$,Homme,Veuf/Veuve,Secondaire,24,Non,10,Industrie,1
+Personne_195,32,Paris,92603$,Femme,Célibataire,Doctorat,38,Oui,2,Technologie,3
+Personne_196,49,Toulouse,50161$,Femme,Veuf/Veuve,Bachelier,33,Oui,5,Technologie,2
+Personne_197,49,Nice,97128$,Femme,Divorcé(e),Doctorat,45,Non,9,Finance,4
+Personne_198,41,Toulouse,48864$,Femme,Divorcé(e),Secondaire,23,Non,9,Agriculture,3
+Personne_199,58,Paris,20942$,Femme,Veuf/Veuve,Bachelier,44,Oui,8,Industrie,4
+Personne_200,29,Non spécifié,29305$,Homme,Célibataire,Secondaire,44,Non,1,Santé,3
